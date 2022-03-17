@@ -1,3 +1,23 @@
 .home__container{
+    display:flex;
+    height:950px;
+    background-color: white;
+    padding: 20px 30px;
+    justify-content: space-between;
+
+}
+.left{
+    height:500px;
+    width:20%;
+    background-color: #219653;
+    border-radius:20px;
+
+
+}
+
+.right{
+    height:500px;
+    background-color: white;
+    width:75%;
 
 }
