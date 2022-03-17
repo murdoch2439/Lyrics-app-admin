@@ -17,8 +17,11 @@
 .right{
     height:500px;
     background-color: white;
-    width:75%;
+    width:79%;
 
 }
 
-.
+.header{
+    background-color:lightblue;
+    height:50px;
+}
