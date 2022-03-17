@@ -7,12 +7,11 @@
 
 }
 .left{
-    height:500px;
+    height:850px;
     width:20%;
     background-color: #219653;
     border-radius:20px;
-
-
+    color:white;
 }
 
 .right{
