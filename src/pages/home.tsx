@@ -1,10 +1,11 @@
 import React, {FunctionComponent} from 'react';
+import "./home.css"
 
 
 
 const Home : FunctionComponent =()=>{
     return(
-        <div>Home</div>
+        <div className={"home__container"}>Home</div>
     )
 
 }
